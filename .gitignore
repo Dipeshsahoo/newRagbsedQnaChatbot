@@ -1,0 +1,6 @@
+env/
+__pycache__/
+.env
+uploaded_document.pdf
+.pytest_cache/
+*.pyc
