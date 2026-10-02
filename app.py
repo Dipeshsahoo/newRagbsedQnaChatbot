@@ -7,7 +7,7 @@ from langchain_text_splitters import RecursiveCharacterTextSplitter
 from langchain_google_genai import GoogleGenerativeAIEmbeddings,ChatGoogleGenerativeAI
 from langchain_community.vectorstores import InMemoryVectorStore
 
-from streamlit import streamlit as st
+import streamlit as st
 from time import sleep
 
 

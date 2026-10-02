@@ -1,0 +1,6 @@
+env/
+__pycache__/
+*.pdf
+.env
+.git/
+.gitignore
